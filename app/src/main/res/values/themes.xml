@@ -1,0 +1,7 @@
+<resources>
+    <style name="Base.Theme.TaskSyncFinal" parent="Theme.MaterialComponents.DayNight.NoActionBar">
+        <item name="colorPrimary">@color/purple_500</item>
+        <item name="colorPrimaryVariant">@color/purple_700</item>
+    </style>
+    <style name="Theme.TaskSyncFinal" parent="Base.Theme.TaskSyncFinal" />
+</resources>
