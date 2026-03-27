@@ -77,4 +77,4 @@ Este proyecto resume los conocimientos adquiridos en:
 - UX/UI limpia y orientada al usuario.
 
 ---
-Creado por **[Tu Nombre]** - 2024
+Creado por **Jim Guillen** - 2026
